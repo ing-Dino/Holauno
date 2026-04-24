@@ -1,1 +1,1 @@
-"# Holauno" 
+<button href="pagina2.html" class="btn btn-primary mt-3">Ir a la Página 2</button>
